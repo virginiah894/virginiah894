@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Glad to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/virginiah894?tab=repositories) represent my journey :running_woman: - From **being curious** :thinking: about how computers work to slowly learning /building until I become a Bioinformatician. :winking face with tongue
+**Glad to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/virginiah894?tab=repositories) represent my journey :running_woman: - From **being curious** :thinking: about how computers work to slowly learning /building until I become a Bioinformatician.
 
 
 My name is  **[Virginiah Periah](https://github.com/virginiah894)**, a lady who is passionate about expediting research through technology. I [graduated](https://en.wikipedia.org/wiki/University_of_Nairobi) (**B.Sc. Microbiology and Biotechnology**) from [The University of Nairobi]](https://en.wikipedia.org/wiki/University_of_Nairobi) in 2018. I`m also a bootcamp graduate from **[Moringa School](https://moringaschool.com/)**
