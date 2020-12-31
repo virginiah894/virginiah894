@@ -9,10 +9,9 @@ Currently I am  **[Bioinformatics Intern at ICIPE](http://www.icipe.org/news/ici
 - 🔭 I’m currently working on ...Bioinformatics workflows, RGSoC.
 - 🌱 I’m currently learning ... R, Data Science.
 - 👯 I’m looking to collaborate on ... Open-Source Projects, Bioinformatics Workflows,Python projects that are Fun, Challenging and Impactiful .
-- 🤔 I’m looking for help with ... Jobs, Internship and Education Opportunities .
+- 🤔 I’m looking for help with ... Jobs, Internships,Mentorships and Learning Opportunities .
 - 💬 My Mantra ... Diligence is the mother of good luck || Learning never Ends ||
 - 📫 How to reach me: ...virgyperry@gmail.com
-- 😄 Pronouns: ...She, Her.
 - ⚡ Fun fact: ...I talk to mysel A LOOOT 😄😄😄😄😄
 <br />
 <br />
