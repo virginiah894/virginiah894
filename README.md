@@ -3,8 +3,8 @@
 **Glad to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/virginiah894?tab=repositories) represent my journey :running_woman: - From **being curious** :thinking: about how computers work to slowly learning /building until I become a Bioinformatician.
 
 
-My name is  **[Virginiah Periah](https://github.com/virginiah894)**, a lady who is passionate about expediting research through technology. I [graduated](https://en.wikipedia.org/wiki/University_of_Nairobi) (**B.Sc. Microbiology and Biotechnology**) from [The University of Nairobi](https://en.wikipedia.org/wiki/University_of_Nairobi) in 2018. I`m also a bootcamp graduate from **[Moringa School](https://moringaschool.com/)**
-Currently I am  **[Bioinformatics Intern at ICIPE](http://www.icipe.org/news/icipe-%E2%80%93-50-years-malaria-mosquito-research)**. I am learning how to build workflows for Next Generation Sequencing Data. **You can find me on [LinkedIn](https://www.linkedin.com/in/virginiah-p-13a311a2/)**.
+My name is  **[Virginiah Periah](https://github.com/virginiah894)**, a lady who is passionate about expediting research through technology. I [graduated](https://en.wikipedia.org/wiki/University_of_Nairobi) (**B.Sc. Microbiology and Biotechnology**) from [The University of Nairobi](https://en.wikipedia.org/wiki/University_of_Nairobi) in 2018. I`m also a bootcamp graduate from **[Moringa School](https://moringaschool.com/)** .
+Currently,  I am  **[Bioinformatics Intern at ICIPE](http://www.icipe.org/news/icipe-%E2%80%93-50-years-malaria-mosquito-research)**. I am learning how to build workflows for Next Generation Sequencing Data. **You can find me on [LinkedIn](https://www.linkedin.com/in/virginiah-p-13a311a2/)**.
 
 - 🔭 I’m currently working on ...Bioinformatics workflows, RGSoC.
 - 🌱 I’m currently learning ... R, Data Science.
