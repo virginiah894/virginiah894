@@ -12,7 +12,7 @@ Currently,  I am  **[Bioinformatics Intern at ICIPE](http://www.icipe.org/news/i
 - 🤔 I’m looking for help with ... Jobs, Internships,Mentorships and Learning Opportunities .
 - 💬 My Mantra ... Diligence is the mother of good luck || Learning never Ends ||
 - 📫 How to reach me: ...virgyperry@gmail.com
-- ⚡ Fun fact: ...I talk to mysel A LOOOT 😄😄😄😄😄
+- ⚡ Fun fact: ...I talk to mysel A LOOOT, then we laugh  😄😄😄😄😄
 <br />
 <br />
 
